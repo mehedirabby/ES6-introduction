@@ -11,4 +11,4 @@ const products = [
 
 
 const friends = ['tom haland','tom cruise','tom brady','tom solaiman'];
-friends.forEach(friend=>console.log(friend));
+friends.forEach(friend=>{});
